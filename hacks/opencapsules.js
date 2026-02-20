@@ -71,7 +71,7 @@ setInterval(() => {
                 })
             })
         }
-    }, 40)
+    }, 25)
 }
 
 // was lazy to write it lol https://www.w3schools.com/howto/howto_js_draggable.asp
